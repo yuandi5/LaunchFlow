@@ -2,6 +2,12 @@
 
 一个轻量的 Windows 桌面工具，将常用软件组合成启动方案，一键按顺序打开，适合办公、开发和游戏等使用场景。
 
+## 下载
+
+[直接下载 Windows EXE](https://github.com/yuandi5/LaunchFlow/releases/latest/download/OneClickLauncher.exe) · [查看发布版本](https://github.com/yuandi5/LaunchFlow/releases)
+
+下载 `OneClickLauncher.exe` 后双击即可运行，无需安装 Python。
+
 ## 功能
 
 - **多方案管理**：创建、重命名和删除启动方案，为不同场景保存应用组合。
