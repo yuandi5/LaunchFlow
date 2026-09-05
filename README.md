@@ -1,6 +1,7 @@
 # LaunchFlow · 一键启动器
 
 一个轻量的 Windows 桌面工具，将常用软件组合成启动方案，一键按顺序打开，适合办公、开发和游戏等使用场景。
+<img width="980" height="649" alt="image" src="https://github.com/user-attachments/assets/374af5bf-4120-401d-b52b-f37a44f2746b" />
 
 ## 下载
 
